@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Spotiweather',
+      description: 'JavaScript/ API Intro',
+      link: "https://tjtahmas.github.io/API-Project-1/",
+      repo: "https://github.com/tjtahmas/API-Project-1"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Round Table',
+      description: 'MySQL/ Express',
+      link: "https://young-journey-22561.herokuapp.com/",
+      repo: "https://github.com/tjtahmas/Project-2"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Tech Blog',
+      description: 'Model, View, Controller Practice',
+      link: "https://mighty-sierra-55235.herokuapp.com/",
+      repo: "https://github.com/tjtahmas/CMS-Tech-Blog-"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Note Taker',
+      description: 'Express Intro',
+      link: "https://calm-shore-36013.herokuapp.com/",
+      repo: "https://github.com/tjtahmas/Note-Taker"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Workout Tracker',
+      description: 'MongoDB/ Mongoose',
+      link: "https://evening-sands-65482.herokuapp.com/",
+      repo: "https://github.com/tjtahmas/Workout-Tracker"
     },
   ]);
 

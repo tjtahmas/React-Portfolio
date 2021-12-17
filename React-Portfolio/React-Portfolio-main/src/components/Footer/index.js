@@ -14,7 +14,7 @@ function Footer() {
     },
     {
       name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      link: "https://stackoverflow.com/users/17008926/tj-tahmassebi"
     }
   ]
 
