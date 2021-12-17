@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.5455edf7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.8499641f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8499641f.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.102548e6.chunk.js": "/React-Portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/React-Portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.e220e6caec9f7be96f11f88d37afc042.js": "/React-Portfolio/precache-manifest.e220e6caec9f7be96f11f88d37afc042.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.5455edf7.chunk.css.map": "/React-Portfolio/static/css/main.5455edf7.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Note Taker.png": "/React-Portfolio/static/media/Note Taker.37229c13.png",
+    "static/media/Round Table.png": "/React-Portfolio/static/media/Round Table.f1ab61dd.png",
+    "static/media/Spotiweather.png": "/React-Portfolio/static/media/Spotiweather.fe6de372.png",
+    "static/media/Tech Blog.png": "/React-Portfolio/static/media/Tech Blog.f975cac0.png",
+    "static/media/Workout Tracker.png": "/React-Portfolio/static/media/Workout Tracker.6ba12cdd.png",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.4912dfc6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.5455edf7.chunk.css",
+    "static/js/main.8499641f.chunk.js"
+  ]
+}
