@@ -17,7 +17,7 @@ function App() {
     }
   ]);
 
-  const [currentPage, setCurrentPage] = useState(pages[3]);
+  const [currentPage, setCurrentPage] = useState(pages[0]);
 
   return (
     <div>
