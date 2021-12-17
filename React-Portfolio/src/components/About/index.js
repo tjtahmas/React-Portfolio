@@ -8,9 +8,9 @@ function About() {
         <img src="Headshot Small.jpg" alt="Headshot"/>
         </div>
         <p>
-        Hello! My name is TJ Tahmassebi. I am a student of The Ohio State University Coding Boot Camp and a graduate of the College of Engineering with my B.S. in Aeronautical and Astronautical Engineering. My dog's name is Morrison, I love learning new recipes to cook, and I currently have a 422-day streak on Duolingo learning Spanish with my mom.        </p>
+        Hello! My name is TJ Tahmassebi. I am a student of The Ohio State University Coding Boot Camp and a graduate of the College of Engineering with my B.S. in Aeronautical and Astronautical Engineering. My dog's name is Morrison, I love learning new recipes to cook, and I'm a Cincinnati Bengals fan.         </p>
         <p>
-        My coding experience is mostly with MATLAB through my engineering coursework. I'm currently learning JavaScript in my coding bootcamp, as well as improving my skills with HTML and CSS. I am also familiar with C++, as I took a course on it in college. That's all on top of knowing SOLIDWORKS, ANSYS Fluent, TIG welding, landscaping and carpentry skills, and FL Studios (my SoundCloud link is at the bottom of the page). However, on this page I'm mostly focusing on my coding skills. Below you'll find a few of my favorite projects I've worked on. If you find them interesting feel free to contact me.</p>
+        My coding knowledge has progress with leaps and bounds in the past 3 months. Before the coding boot camp I knew MATLAB and C++ from my engineering coursework. Now, I know HTML, CSS, JavaScript, and have experience with creating APIs, databases, and much more. If you'd like to see some of the projects I've worked on feel free to navigate to the portfolio tab. There you wil find links to the pages and the repositories. If you'd like to see a list of the skills I've developed, check out my Resume page. If you have any questions about my projects or my experience, feel free to use the Contact page to send me a message, or shoot me an email at tjtahmas@gmail.com. Thank you so much for visiting my online portfolio and I hope you have a great day!</p>
       </div>
     </section>
   );
